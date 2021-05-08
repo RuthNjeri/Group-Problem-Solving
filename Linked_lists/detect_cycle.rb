@@ -2,7 +2,7 @@
 # Have a fast and slow moving pointer in the Linked List
 # The fast pointer moves twice as fast
 # If the slow pointer moves one step, the fast pointer moves two steps
-# They will eventually meet
+# They will eventually meet if it is a cycle
 
 def hasCycle(head) # O(n)T, O(1)S
   fast, slow = head, head
