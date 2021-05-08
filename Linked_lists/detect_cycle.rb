@@ -4,7 +4,7 @@
 # If the slow pointer moves one step, the fast pointer moves two steps
 # They will eventually meet
 
-def hasCycle(head)
+def hasCycle(head) # O(n)T, O(1)S
   fast, slow = head, head
 
   while fast != nil && fast.next != nil
