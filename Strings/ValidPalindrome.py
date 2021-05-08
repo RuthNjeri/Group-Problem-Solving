@@ -20,7 +20,6 @@ class Solution:
 # Then use two pointers
 # one at the start and another at the end(stop)
 # if at any point the start character is not equal to the stop character, return false
-
 # def is_palindrome(s)
 
 #   valid_string = ""
