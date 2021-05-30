@@ -14,7 +14,27 @@ class Node:
         self.random = random
 
 
-class Solution:
+class Solution1:
+    def copyRandomList(self, head: Node) -> Node:
+        mapping = {}
+
+        current = head
+
+        while current:
+            mapping[current] = Node(current.val)
+            current = current.next
+
+        current = head
+
+        while current:
+            mapping[current].next = mapping.get(current.next)
+            mapping[current].random = mapping.get(current.random)
+            current = current.next
+
+        return mapping.get(head)
+
+
+class Solution2:
     """
     This solution is accepted by LeetCode.
     """
@@ -81,24 +101,3 @@ class Solution:
             current = current.next
 
         return index
-
-
-# Alternative Soltion.
-class Solution2:
-    def copyRandomList(self, head: Node) -> Node:
-        mapping = {}
-
-        current = head
-
-        while current:
-            mapping[current] = Node(current.val)
-            current = current.next
-
-        current = head
-
-        while current:
-            mapping[current].next = mapping.get(current.next)
-            mapping[current].random = mapping.get(current.random)
-            current = current.next
-
-        return mapping.get(head)
