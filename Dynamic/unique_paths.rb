@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/unique-paths/
+# O(m * n) ST
 def unique_paths(m, n)
   grid = Array.new(m){Array.new(n - 1)}
 
