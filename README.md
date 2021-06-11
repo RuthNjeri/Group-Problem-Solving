@@ -1,7 +1,10 @@
 
 <!-- This is to track all questions covered/discussed -->
 
-# In Class
+System design work is at the bottom of the README. <br>
+
+
+# Algorithms and Problem Solving (Class Problems)
 ## Caterpillar Method
  1. [Abs Distinct](https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/)
 
@@ -45,8 +48,7 @@
  7. [Minimum Cost Tree Leafs](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
  8. Max Magic Square --> Look at the Wiki.
  9. TwoWayRoadRenovation --> Look at the Wiki.
- 10. [TO DO] Pending Codility Question sent via email
-
+ 10. Two lane and Grid problem...[redo](https://app.codility.com/public-link/Microsoft-Kenya-SSWE---Dynamic-Programming/)
 ## Hashing
  1. [Two Sum](https://leetcode.com/problems/two-sum/submissions/)
  2. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
@@ -80,9 +82,12 @@
  6. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
  7. [Non Constructible Change](https://drive.google.com/file/d/1wg82kbgEv4GVBCIMGCUh56PkF-oJdKw-/view?usp=sharing)
  8. [Word Ladder](https://leetcode.com/problems/word-ladder/)...[solution](https://replit.com/@wanjikumugo/WordLadderLeetCode#main.py)
- 9. [TO DO] Pending [Trapping Rain Water](
+ 9. [Trapping Rain Water](
 https://leetcode.com/problems/trapping-rain-water/)
-
+10. [Kth smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+11. [Peak Element](https://leetcode.com/problems/find-peak-element/)
+12. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+13. [Number of Paths](https://drive.google.com/drive/folders/1E6fMCrJpPVFFA7aF3C-SvdA6ynhumMeX?usp=sharing)
 
 # Group Mock Interviews
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
@@ -90,5 +95,8 @@ https://leetcode.com/problems/trapping-rain-water/)
 3. [LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle/)
 4. [Valid String](https://replit.com/@RuthWaiganjo/Alg#main.py)
 
+# System Design (Class Problems)
+1. [Pastebin](https://docs.google.com/document/d/1oJ_u3xb1t_zItC5kDbpwvhjQykuffROWko5-jzYm5uc/edit?usp=sharing)
+2. [URL Shortener](https://docs.google.com/document/d/17jsZ0YhAq-Z3nq5POYVwAockaYmeTrmdycPWMnEhFfk/edit?usp=sharing)
 
 Feel free to add any that I am missing
