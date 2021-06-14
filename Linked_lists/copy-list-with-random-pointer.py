@@ -8,21 +8,42 @@ This question was brought to class on May 24th.
 
 # Definition for a Node.
 class Node:
-    def __init__(self, x: int, next: 'Node' = None, random: 'Node' = None):
+    def __init__(self, x: int, next: "Node" = None, random: "Node" = None):
         self.val = int(x)
         self.next = next
         self.random = random
 
 
-class Solution:
+class Solution1:
+    def copyRandomList(self, head: Node) -> Node:
+        mapping = {}
+
+        current = head
+
+        while current:
+            mapping[current] = Node(current.val)
+            current = current.next
+
+        current = head
+
+        while current:
+            mapping[current].next = mapping.get(current.next)
+            mapping[current].random = mapping.get(current.random)
+            current = current.next
+
+        return mapping.get(head)
+
+
+class Solution2:
     """
     This solution is accepted by LeetCode.
     """
-    def copyRandomList(self, head: 'Node') -> 'Node':
+
+    def copyRandomList(self, head: "Node") -> "Node":
         if not head:
             return head
 
-        random_index_tracker = []   # This is used to keep track of the index of node.random in the original list
+        random_index_tracker = []  # This is used to keep track of the index of node.random in the original list
         if not head.random:
             random_index_tracker.append(None)
         else:
@@ -58,13 +79,13 @@ class Solution:
             random_pointer = head2
             for k in range(random_index_tracker[j]):
                 random_pointer = random_pointer.next
-            
+
             current2.random = random_pointer
             current2 = current2.next
 
         return head2
 
-    def get_position(self, head: 'Node', node: 'Node'):
+    def get_position(self, head: "Node", node: "Node"):
         """
         Given a node, find out how far it is from the head. This is similar to finding the index of an item in a list.
 

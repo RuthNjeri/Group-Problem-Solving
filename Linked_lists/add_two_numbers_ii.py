@@ -1,4 +1,6 @@
-# https://leetcode.com/problems/add-two-numbers-ii/
+"""
+https://leetcode.com/problems/add-two-numbers-ii/
+"""
 
 
 class ListNode:
@@ -43,3 +45,35 @@ class Solution:
             current = nextNode
 
         return prev
+
+
+class Solution:
+    """
+    This is an alternative solution that is accepted by LeetCode.
+    """
+
+    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        num1, num2 = self.list_to_str(l1), self.list_to_str(l2)
+
+        sum = int(num1) + int(num2)
+        sum_list = list(str(sum))
+
+        head = ListNode(int(sum_list[0]))
+        current = head
+
+        for j in range(1, len(sum_list)):
+            node = ListNode(int(sum_list[j]))
+            current.next = node
+            current = node
+
+        return head
+
+    def list_to_str(self, mylist: ListNode) -> str:
+        number = ""
+        node = mylist
+
+        while node:
+            number = number + str(node.val)
+            node = node.next
+
+        return number
