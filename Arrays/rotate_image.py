@@ -12,7 +12,7 @@ class Solution:
 
         for layer in range(layers):
             for i in range(layer, size - layer):
-                top = (matrix[layer][0],)
+                top = matrix[layer][i]
                 right = matrix[i][size - layer]
                 bottom = matrix[size - layer][size - i]
                 left = matrix[size - i][layer]
