@@ -71,7 +71,16 @@ System design work is at the bottom of the README. <br>
  8. Balanced Binary Tree...see Trees section above
  9. Validate Binary Search Tree...see Trees section above
  10. Lowest Common Ancestor...see Trees section above
+ 11. Copy List With Random Pointer..see LinkedList section above
 
+ # Saturday Codehunt Challenges
+ 1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+ 2. [Kth Smallest Element in A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+ 3. [Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+ 4. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
+ 5. [Heaters](https://leetcode.com/problems/heaters/)
+ 6. [Redundant Connection](https://leetcode.com/problems/redundant-connection-ii/)
+ 7. Tapping Rain Water..See coaching sessions below, number 9.
 
 # Coaching Sessions
  1. [oddOccurrenceInArray]()
@@ -82,8 +91,7 @@ System design work is at the bottom of the README. <br>
  6. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
  7. [Non Constructible Change](https://drive.google.com/file/d/1wg82kbgEv4GVBCIMGCUh56PkF-oJdKw-/view?usp=sharing)
  8. [Word Ladder](https://leetcode.com/problems/word-ladder/)...[solution](https://replit.com/@wanjikumugo/WordLadderLeetCode#main.py)
- 9. [Trapping Rain Water](
-https://leetcode.com/problems/trapping-rain-water/)
+ 9. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 10. [Kth smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 11. [Peak Element](https://leetcode.com/problems/find-peak-element/)
 12. [Rotate Image](https://leetcode.com/problems/rotate-image/)
@@ -96,7 +104,8 @@ https://leetcode.com/problems/trapping-rain-water/)
 4. [Valid String](https://replit.com/@RuthWaiganjo/Alg#main.py)
 
 # System Design (Class Problems)
-1. [Pastebin](https://docs.google.com/document/d/1oJ_u3xb1t_zItC5kDbpwvhjQykuffROWko5-jzYm5uc/edit?usp=sharing)
-2. [URL Shortener](https://docs.google.com/document/d/17jsZ0YhAq-Z3nq5POYVwAockaYmeTrmdycPWMnEhFfk/edit?usp=sharing)
+1. [Pastebin Requirements](https://docs.google.com/document/d/1oJ_u3xb1t_zItC5kDbpwvhjQykuffROWko5-jzYm5uc/edit?usp=sharing)
+2. [URL Shortener Requirements](https://docs.google.com/document/d/17jsZ0YhAq-Z3nq5POYVwAockaYmeTrmdycPWMnEhFfk/edit?usp=sharing)
+3. [URL Shortener Continued](https://docs.google.com/presentation/d/1X3HL-RCTgoT6xTpHzcX-qMosbevKECy3Qr4WqTOZl8Y/edit?usp=sharing)
 
 Feel free to add any that I am missing
