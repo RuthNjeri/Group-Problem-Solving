@@ -80,22 +80,21 @@ System design work is at the bottom of the README. <br>
  4. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
  5. [Heaters](https://leetcode.com/problems/heaters/)
  6. [Redundant Connection](https://leetcode.com/problems/redundant-connection-ii/)
- 7. Tapping Rain Water..See coaching sessions below, number 9.
+ 7. Tapping Rain Water..See coaching sessions below.
 
 # Coaching Sessions
- 1. [oddOccurrenceInArray]()
- 2. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
- 3. [Array Addition](https://github.com/ratracegrad/coderbyte-Beginner/blob/master/Array%20Addition%20I)..alternative solution in Arrays folder
- 4. [Subarray Sum](https://leetcode.com/problems/subarray-sum-equals-k/)
- 5. [Odd Occurrences In Array](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
- 6. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
- 7. [Non Constructible Change](https://drive.google.com/file/d/1wg82kbgEv4GVBCIMGCUh56PkF-oJdKw-/view?usp=sharing)
- 8. [Word Ladder](https://leetcode.com/problems/word-ladder/)...[solution](https://replit.com/@wanjikumugo/WordLadderLeetCode#main.py)
- 9. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
-10. [Kth smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-11. [Peak Element](https://leetcode.com/problems/find-peak-element/)
-12. [Rotate Image](https://leetcode.com/problems/rotate-image/)
-13. [Number of Paths](https://drive.google.com/drive/folders/1E6fMCrJpPVFFA7aF3C-SvdA6ynhumMeX?usp=sharing)
+ 1. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+ 2. [Array Addition](https://github.com/ratracegrad/coderbyte-Beginner/blob/master/Array%20Addition%20I)..alternative solution in Arrays folder
+ 3. [Subarray Sum](https://leetcode.com/problems/subarray-sum-equals-k/)
+ 4. [Odd Occurrences In Array](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/)
+ 5. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+ 6. [Non Constructible Change](https://drive.google.com/file/d/1wg82kbgEv4GVBCIMGCUh56PkF-oJdKw-/view?usp=sharing)
+ 7. [Word Ladder](https://leetcode.com/problems/word-ladder/)...[solution](https://replit.com/@wanjikumugo/WordLadderLeetCode#main.py)
+ 8. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+9. [Kth smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+10. [Peak Element](https://leetcode.com/problems/find-peak-element/)
+11. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+12. [Number of Paths](https://drive.google.com/drive/folders/1E6fMCrJpPVFFA7aF3C-SvdA6ynhumMeX?usp=sharing)
 
 # Group Mock Interviews
 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
