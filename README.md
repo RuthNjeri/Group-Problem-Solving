@@ -46,9 +46,7 @@ System design work is at the bottom of the README. <br>
  5. [Stone Games II](https://leetcode.com/problems/stone-game-ii/)
  6. [Divisor Game](https://leetcode.com/problems/divisor-game/)
  7. [Minimum Cost Tree Leafs](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
- 8. Max Magic Square --> Look at the Wiki.
- 9. TwoWayRoadRenovation --> Look at the Wiki.
- 10. Two lane and Grid problem...[redo](https://app.codility.com/public-link/Microsoft-Kenya-SSWE---Dynamic-Programming/)
+ 8. TwoWayRoadRenovation and Max Magic Square...[redo](https://app.codility.com/public-link/Microsoft-Kenya-SSWE---Dynamic-Programming/) --> Solution in the wiki
 ## Hashing
  1. [Two Sum](https://leetcode.com/problems/two-sum/submissions/)
  2. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
