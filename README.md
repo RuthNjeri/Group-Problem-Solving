@@ -99,6 +99,9 @@ System design work is at the bottom of the README. <br>
 2. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 3. [LinkedList Cycle](https://leetcode.com/problems/linked-list-cycle/)
 4. [Valid String](https://replit.com/@RuthWaiganjo/Alg#main.py)
+5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+6. [Replace Most Commonly Occuring Word](https://gist.github.com/savioabuga/53f4fe1ba68e244db8f0dec316e78558)
+7. [Find a key k in an infinite sorted array](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
 
 # System Design (Class Problems)
 1. [Pastebin Requirements](https://docs.google.com/document/d/1oJ_u3xb1t_zItC5kDbpwvhjQykuffROWko5-jzYm5uc/edit?usp=sharing)
