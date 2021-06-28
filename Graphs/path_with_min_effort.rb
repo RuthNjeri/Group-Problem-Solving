@@ -3,6 +3,8 @@
 # https://leetcode.com/problems/path-with-minimum-effort/
 
 # Optimum solution...but still getting a timeout error on Leetcode...maybe it is the language?
+# Bruteforce solution is below
+# Binary search solution coming soon. You can find it in the Python file(path with minimum.py)
 
 def minimum_effort_path(heights)
   rows = heights.length
