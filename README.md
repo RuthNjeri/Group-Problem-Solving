@@ -79,6 +79,14 @@ System design work is at the bottom of the README. <br>
  5. [Heaters](https://leetcode.com/problems/heaters/)
  6. [Redundant Connection](https://leetcode.com/problems/redundant-connection-ii/)
  7. Tapping Rain Water..See coaching sessions below.
+ 8. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+ 9. [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+ 10. [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
+ 11. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+ 12. [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+ 13. [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/)
+ 14. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+ 15. [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
 
 # Coaching Sessions
  1. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
@@ -107,5 +115,9 @@ System design work is at the bottom of the README. <br>
 1. [Pastebin Requirements](https://docs.google.com/document/d/1oJ_u3xb1t_zItC5kDbpwvhjQykuffROWko5-jzYm5uc/edit?usp=sharing)
 2. [URL Shortener Requirements](https://docs.google.com/document/d/17jsZ0YhAq-Z3nq5POYVwAockaYmeTrmdycPWMnEhFfk/edit?usp=sharing)
 3. [URL Shortener Continued](https://docs.google.com/presentation/d/1X3HL-RCTgoT6xTpHzcX-qMosbevKECy3Qr4WqTOZl8Y/edit?usp=sharing)
+
+# Class Presentations
+1. [Design A Web Crawler](https://docs.google.com/presentation/d/1jY7PSRZOEW2fqG30G8uO349KmvTVGzPb1j31PdfeXwQ/edit?usp=sharing)
+2. [Path With Minimum Effort](https://docs.google.com/presentation/d/1gbQFXi_JkXbG6v8x8a9o9h2h2ATgnr7bs75Xj5OHzh0/edit?usp=sharing)
 
 Feel free to add any that I am missing
