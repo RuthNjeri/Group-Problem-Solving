@@ -72,21 +72,23 @@ System design work is at the bottom of the README. <br>
  11. Copy List With Random Pointer..see LinkedList section above
 
  # Saturday Codehunt Challenges
+ ## June 12th
  1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
  2. [Kth Smallest Element in A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
  3. [Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
  4. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
  5. [Heaters](https://leetcode.com/problems/heaters/)
  6. [Redundant Connection](https://leetcode.com/problems/redundant-connection-ii/)
- 7. Tapping Rain Water..See coaching sessions below.
- 8. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
- 9. [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
- 10. [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
- 11. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
- 12. [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
- 13. [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/)
- 14. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
- 15. [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
+ 7. Trapping Rain Water..See coaching sessions below.
+  ## June 26th
+ 1. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+ 2. [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+ 3. [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
+ 4. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+ 5. [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+ 6. [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/)
+ 7. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+ 8. [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)
 
 # Coaching Sessions
  1. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
