@@ -83,7 +83,7 @@ System design work is at the bottom of the README. <br>
   ## June 26th
  1. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
  2. [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
- 3. [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)
+ 3. [Count Servers that Communicate](https://github.com/RuthNjeri/Group-Problem-Solving/blob/main/Arrays/count-servers-that-communicate.py)
  4. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
  5. [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
  6. [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/)
