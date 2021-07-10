@@ -79,7 +79,7 @@ System design work is at the bottom of the README. <br>
  4. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
  5. [Heaters](https://leetcode.com/problems/heaters/)
  6. [Redundant Connection](https://leetcode.com/problems/redundant-connection-ii/)
- 7. Trapping Rain Water..See coaching sessions below.
+ 7. [Trapping Rain Water](https://github.com/RuthNjeri/Group-Problem-Solving/blob/main/Dynamic/trapping-rain-water.py)
   ## June 26th
  1. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
  2. [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
@@ -98,7 +98,7 @@ System design work is at the bottom of the README. <br>
  5. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
  6. [Non Constructible Change](https://drive.google.com/file/d/1wg82kbgEv4GVBCIMGCUh56PkF-oJdKw-/view?usp=sharing)
  7. [Word Ladder](https://leetcode.com/problems/word-ladder/)...[solution](https://replit.com/@wanjikumugo/WordLadderLeetCode#main.py)
- 8. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+ 8. [Trapping Rain Water](https://github.com/RuthNjeri/Group-Problem-Solving/blob/main/Dynamic/trapping-rain-water.py)
 9. [Kth smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 10. [Peak Element](https://leetcode.com/problems/find-peak-element/)
 11. [Rotate Image](https://leetcode.com/problems/rotate-image/)
