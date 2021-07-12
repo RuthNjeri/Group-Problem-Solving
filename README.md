@@ -114,6 +114,7 @@ System design work is at the bottom of the README. <br>
 7. [Find a key k in an infinite sorted array](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
 8. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 9. [Search array of unknown size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
+10. [Valid Parethesis](https://leetcode.com/problems/valid-parentheses/)
 
 # July Challenge
 ## Week One
