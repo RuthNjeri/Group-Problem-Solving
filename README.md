@@ -75,7 +75,7 @@ System design work is at the bottom of the README. <br>
  ## June 12th
  1. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
  2. [Kth Smallest Element in A BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
- 3. [Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+ 3. [Find all anagrams in a string](https://github.com/RuthNjeri/Group-Problem-Solving/blob/main/Strings/find-all-anagrams-in-a-string.py)
  4. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
  5. [Heaters](https://leetcode.com/problems/heaters/)
  6. [Redundant Connection](https://leetcode.com/problems/redundant-connection-ii/)
