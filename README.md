@@ -118,7 +118,7 @@ System design work is at the bottom of the README. <br>
 
 # July Challenge
 ## Week One
-1. [Sort colors](https://leetcode.com/problems/sort-colors/)
+1. [Sort colors / Dutch Flag Problem](https://leetcode.com/problems/sort-colors/)
 2. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 3. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 4. [Even Odd Linked List](https://leetcode.com/problems/odd-even-linked-list/)
