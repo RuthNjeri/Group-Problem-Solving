@@ -115,6 +115,14 @@ System design work is at the bottom of the README. <br>
 8. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 9. [Search array of unknown size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
 
+# July Challenge
+## Week One
+1. [Sort colors](https://leetcode.com/problems/sort-colors/)
+2. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+3. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+4. [Even Odd Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+5. [Simplify Path](https://leetcode.com/problems/simplify-path/)
+
 # System Design (Class Problems)
 1. [Pastebin Requirements](https://docs.google.com/document/d/1oJ_u3xb1t_zItC5kDbpwvhjQykuffROWko5-jzYm5uc/edit?usp=sharing)
 2. [URL Shortener Requirements](https://docs.google.com/document/d/17jsZ0YhAq-Z3nq5POYVwAockaYmeTrmdycPWMnEhFfk/edit?usp=sharing)
