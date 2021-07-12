@@ -111,7 +111,7 @@ System design work is at the bottom of the README. <br>
 4. [Valid String](https://replit.com/@RuthWaiganjo/Alg#main.py)
 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 6. [Replace Most Commonly Occuring Word](https://gist.github.com/savioabuga/53f4fe1ba68e244db8f0dec316e78558)
-7. [Find a key k in an infinite sorted array](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
+7. [Find a key k in an infinite sorted array](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) [or](https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/)
 8. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 9. [Search array of unknown size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
 
