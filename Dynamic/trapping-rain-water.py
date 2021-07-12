@@ -43,7 +43,7 @@ class Solution2:
         return water
 
 
-class Solution2:
+class Solution3:
     def trap(self, height: List[int]) -> int:
         # This is a DP solution with a Time Complexity of O(N) solution
         # It is similar to Solution1 but makes use of prefilled arrays
