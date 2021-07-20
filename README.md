@@ -133,4 +133,9 @@ System design work is at the bottom of the README. <br>
 1. [Design A Web Crawler](https://docs.google.com/presentation/d/1jY7PSRZOEW2fqG30G8uO349KmvTVGzPb1j31PdfeXwQ/edit?usp=sharing)
 2. [Path With Minimum Effort](https://docs.google.com/presentation/d/1gbQFXi_JkXbG6v8x8a9o9h2h2ATgnr7bs75Xj5OHzh0/edit?usp=sharing)
 
+# Group Project
+1. [Wireframe](https://balsamiq.cloud/sh27hkj/p9r4et4/r1065)
+2. [System Design](https://docs.google.com/presentation/d/1Lv27WCWRVyungkWbm7QUMVgm9ulfUiAneV2XKoW7s4Y/edit?usp=sharing)
+3. [ERD Diagram](https://dbdiagram.io/d/60e5dae67e498c3bb3ec60df)
+
 Feel free to add any that I am missing
