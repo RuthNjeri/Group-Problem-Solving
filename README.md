@@ -124,6 +124,22 @@ System design work is at the bottom of the README. <br>
 4. [Even Odd Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 5. [Simplify Path](https://leetcode.com/problems/simplify-path/)
 
+## Week Two
+1. [Reorder List](https://leetcode.com/problems/reorder-list/)
+2. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+3. [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/)
+4. [Count Good Nodes in a Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+5. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+
+## Week Three
+1. [Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+2. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+3. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+4. [LRU Cache](https://leetcode.com/problems/lru-cache/)
+
+## Week Four
+
+
 # System Design (Class Problems)
 1. [Pastebin Requirements](https://docs.google.com/document/d/1oJ_u3xb1t_zItC5kDbpwvhjQykuffROWko5-jzYm5uc/edit?usp=sharing)
 2. [URL Shortener Requirements](https://docs.google.com/document/d/17jsZ0YhAq-Z3nq5POYVwAockaYmeTrmdycPWMnEhFfk/edit?usp=sharing)
